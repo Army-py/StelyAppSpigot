@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+version: ${project.version}
+author: LightMute
+main: ${project.groupId}.${project.artifactId}.App
+api-version: 1.14

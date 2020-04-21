@@ -1,0 +1,5 @@
+name: StelyAppSpigot
+version: 0.0.1-SNAPSHOT
+author: LightMute
+main: fr.lightmute.StelyAppSpigot.App
+api-version: 1.14
