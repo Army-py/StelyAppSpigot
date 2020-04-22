@@ -6,6 +6,7 @@ public class App extends JavaPlugin {
 
 	public void onEnable() {
 		//test
+		//test2
 	}
 	public void onDisable() {
 
